@@ -1,0 +1,12 @@
+.bio {
+  padding: 5rem 1rem; /* 5rem em cima e embaixo, 1rem nas laterais */
+  text-align: center;
+}
+.bio-content img {
+  display: block;           /* centraliza via margin auto */
+  margin: 0 auto 1rem auto; /* margem abaixo da imagem */
+  width: 8rem;              /* largura */
+  height: 8rem;             /* altura */
+  border-radius: 9999px;    /* deixa circular */
+  object-fit: cover;        /* mantém proporção sem distorcer */
+}

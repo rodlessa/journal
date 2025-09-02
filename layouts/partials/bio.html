@@ -1,0 +1,10 @@
+<section class="bio text-center py-20">
+  <div class="container mx-auto px-4 bio-content">
+    {{ with .Site.GetPage "summary.md" }}
+      {{ .Content | safeHTML }}
+    {{ else }}
+      <p>Descrição padrão do autor, caso summary.md não exista.</p>
+    {{ end }}
+  </div>
+</section>
+

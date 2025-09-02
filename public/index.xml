@@ -22,5 +22,18 @@ de mercado, C# e Java ainda são muito fortes para quem está querendo entrar no
       
     </item>
     
+    <item>
+      <title>Sobre mim</title>
+      <link>http://localhost:1313/summary/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/summary/</guid>
+      
+      <description>&lt;p&gt;&lt;img src=&#34;https://avatars.githubusercontent.com/u/11035684?v=4&#34; alt=&#34;Rodrigo Lessa&#34;&gt;
+Olá! Eu sou Rodrigo, também conhecido como Nykot!&lt;br&gt;
+Me acompanhe nesse jornada no mundo de desenvolvimento e DevOps!&lt;/p&gt;</description>
+      
+    </item>
+    
   </channel>
 </rss>
