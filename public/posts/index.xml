@@ -6,7 +6,23 @@
     <description>Recent content in Posts on Nykot`s Journal</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Sep 2025 04:25:34 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 02 Sep 2025 11:11:08 -0300</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3 Anos Em TI</title>
+      <link>http://localhost:1313/posts/3-anos-em-ti/</link>
+      <pubDate>Tue, 02 Sep 2025 11:11:08 -0300</pubDate>
+      
+      <guid>http://localhost:1313/posts/3-anos-em-ti/</guid>
+      
+      <description>&lt;p&gt;#3 anos em TI&lt;/p&gt;
+&lt;h2 id=&#34;começo&#34;&gt;Começo&lt;/h2&gt;
+&lt;p&gt;Primeiramente, eu não tenho exatamente 3 anos de TI, oficialmente é isso, mas eu comecei muito antes.
+Em 2009-2010, quem jogou algum MMO provavelmente conheceu Ragnarok Online. Na cena brasileira, poucos eram aqueles afortunados que conseguiam pagar o bRO da LevelUp!, muitos conheceram por servidores &amp;ldquo;privates&amp;rdquo;, alguns mais atualizados do que o bRO!&lt;/p&gt;
+&lt;p&gt;Eu sempre fui muito curioso, lembro que meu primeiro contato com desenvolvimento foi ver meu pai tentar quebrar a cabeça com o FrontPage, um programa da Microsoft para edição de sites. Era um software muito visual, pouco editor de código pelo que eu lembro.
+Eu sabia que não era possível um &amp;ldquo;bom site&amp;rdquo; naquela época utilizar aquele programa, ele era muito limitado. Aos poucos fui descobrindo HTML, CSS e JavaScript.&lt;/p&gt;</description>
+      
+    </item>
+    
     <item>
       <title>Hello, World!</title>
       <link>http://localhost:1313/posts/hello-world/</link>
