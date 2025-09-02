@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://blog.rdls.dev/'
 languageCode = 'en-us'
 title = 'Nykot`s Journal'
 [module]
@@ -7,3 +7,18 @@ title = 'Nykot`s Journal'
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
+
+[[params.socialIcons]]
+name = "github"
+url = "https://github.com/rodlessa"
+
+[[params.socialIcons]]
+name = "twitter"
+url = "https://twitter.com/itsnykot"
+
+[[params.socialIcons]]
+name = "Rss"
+url = "/index.xml"
+
+[params]
+  goToTop = true
