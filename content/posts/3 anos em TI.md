@@ -1,6 +1,6 @@
 +++
 date = '2025-09-02T11:11:08-03:00'
-draft = true
+draft = false
 title = '3 Anos Em TI'
 +++
 #3 anos em TI
